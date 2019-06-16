@@ -11,4 +11,6 @@ print (Added byt master"
 
 =======
 SSH access deleted
->>>>>>> 9255f3766f784b2e378ef9e01f0aeff7ea60e298
+
+print ("added in dev");
+
