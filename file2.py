@@ -6,7 +6,6 @@ added onemore line
 
 
 
-
->>>>>>> dev
+added by other user
 Fouth by Master
 
